@@ -48,6 +48,12 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 <img src="https://github-readme-stats.vercel.app/api?username=lhermawan&show_icons=true&theme=tokyonight" alt="Lucky's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhermawan&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
