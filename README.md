@@ -44,12 +44,23 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-[![Lucky's Stats](https://github-readme-stats.vercel.app/api?username=lhermawan&show_icons=true&theme=tokyonight)](https://github.com/lhermawan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhermawan&layout=compact&theme=tokyonight)](https://github.com/lhermawan)
+  <!-- GitHub Streak (Server terpisah, lebih stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhermawan&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
+  <!-- GitHub Trophies (Lebih stabil) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=lhermawan&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=15" alt="Lucky's Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Animasi Ular (Ingat: Kamu harus setup GitHub Actions dulu biar file SVG-nya ada) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake.svg">
