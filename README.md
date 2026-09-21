@@ -57,7 +57,7 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
----
+<hr>
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckyhermawanroza)
