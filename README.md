@@ -44,10 +44,11 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lhermawan&show_icons=true&theme=tokyonight" alt="Lucky's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhermawan&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<div align="center">
+[![Lucky's Stats](https://github-readme-stats.vercel.app/api?username=lhermawan&show_icons=true&theme=tokyonight)](https://github.com/lhermawan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhermawan&layout=compact&theme=tokyonight)](https://github.com/lhermawan)
+</div>
+<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhermawan/lhermawan/output/github-contribution-grid-snake-dark.svg">
