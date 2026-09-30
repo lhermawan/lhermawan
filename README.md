@@ -35,11 +35,12 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 ---
 
 ### 🌟 Featured Project
-**[SAMS - System Absensi Manajemen Shift](https://github.com/lhermawan/sams-project)**
-*A high-scale Multi-tenant Attendance Management System.*
-- Built with Next.js, TypeScript, and Prisma.
-- Implements a dynamic **Rule Engine** for automated attendance validation.
-- Designed for multi-company deployment with domain-based routing.
+**[MemoriaGraph 3.0](https://github.com/lhermawan/memoriagraph)**  
+*Cognitive Long-Term Memory & Knowledge Graph Engine for Autonomous AI Agents & Systems.*
+- **4-Way Hybrid Recall**: Combines BM25 Fulltext, Multi-Hop Graph Traversal (Neo4j), Temporal Slicing, and local Int8 Dense Vector Embeddings via Reciprocal Rank Fusion (RRF).
+- **Epistemic Hygiene & Quality Gate**: Built-in Semantic Anti-Slop Sanitizer filtering cognitive fluff, secrets, and hallucinated claims with `:Fact` vs `:Inference` ontology.
+- **Biomimetic Memory Banks & Dynamic Belief Revision**: Context-isolated memory partitions with confidence scoring, logarithmic dampening, and hysteresis heuristics.
+- **Universal Ecosystem**: Native Model Context Protocol (MCP) server supporting Claude Desktop, Antigravity, and Cursor.
 
 ---
 
