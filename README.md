@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Fullstack+Developer;Security+Researcher;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
 </p>
 
+<p align="left">
+  <a href="https://hub.xerj.org/contributors/lhermawan">
+    <img src="https://hub.xerj.org/contributors/lhermawan/badge.svg" alt="XERJ Corpus Hub contributor" />
+  </a>
+</p>
+
 ---
 
 ### ⚡ About Me
@@ -34,13 +40,20 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
+
 **[MemoriaGraph 3.0](https://github.com/lhermawan/memoriagraph)**  
 *Cognitive Long-Term Memory & Knowledge Graph Engine for Autonomous AI Agents & Systems.*
 - **4-Way Hybrid Recall**: Combines BM25 Fulltext, Multi-Hop Graph Traversal (Neo4j), Temporal Slicing, and local Int8 Dense Vector Embeddings via Reciprocal Rank Fusion (RRF).
 - **Epistemic Hygiene & Quality Gate**: Built-in Semantic Anti-Slop Sanitizer filtering cognitive fluff, secrets, and hallucinated claims with `:Fact` vs `:Inference` ontology.
 - **Biomimetic Memory Banks & Dynamic Belief Revision**: Context-isolated memory partitions with confidence scoring, logarithmic dampening, and hysteresis heuristics.
 - **Universal Ecosystem**: Native Model Context Protocol (MCP) server supporting Claude Desktop, Antigravity, and Cursor.
+
+**[MemoriaGraph Lite](https://github.com/lhermawan/memoriagraph-lite)**  
+*Autonomous Cognitive Memory & Decision Hub for AI Coding Agents (Indexed in [XERJ Corpus Hub](https://hub.xerj.org/contributors/lhermawan)).*
+- **Reference Memory Corpus**: Selected and indexed by [XERJ Corpus Hub](https://hub.xerj.org/contributors/lhermawan) as an official reference memory for AI coding agents worldwide.
+- **Cognitive Triad**: Solves AI agent amnesia by mapping `Problem -> Mitigation Heuristic -> Verified Solution`.
+- **Interactive Cockpit**: 2D physics visualizer & sliding drawer inspection with dual MCP server tools.
 
 ---
 
