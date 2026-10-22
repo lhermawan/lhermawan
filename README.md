@@ -42,18 +42,23 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 
 ### 🌟 Featured Projects
 
-**[MemoriaGraph 3.0](https://github.com/lhermawan/memoriagraph)**  
-*Cognitive Long-Term Memory & Knowledge Graph Engine for Autonomous AI Agents & Systems.*
-- **4-Way Hybrid Recall**: Combines BM25 Fulltext, Multi-Hop Graph Traversal (Neo4j), Temporal Slicing, and local Int8 Dense Vector Embeddings via Reciprocal Rank Fusion (RRF).
-- **Epistemic Hygiene & Quality Gate**: Built-in Semantic Anti-Slop Sanitizer filtering cognitive fluff, secrets, and hallucinated claims with `:Fact` vs `:Inference` ontology.
-- **Biomimetic Memory Banks & Dynamic Belief Revision**: Context-isolated memory partitions with confidence scoring, logarithmic dampening, and hysteresis heuristics.
-- **Universal Ecosystem**: Native Model Context Protocol (MCP) server supporting Claude Desktop, Antigravity, and Cursor.
+**[MemoriaGraph 3.1](https://github.com/lhermawan/memoriagraph)**  
+*Biomimetic Cognitive Substrate & Long-Term Memory Engine for Autonomous AI Agents & Systems.*
+- **4-Way Hybrid Retrieval (RRF)**: Unifies BM25 Lexical search, Neo4j Graph Traversal, Temporal Ebbinghaus Decay, and Quantized Int8 Dense Vector Embeddings (<30ms).
+- **5 Pillars of Zero-Overhead**: Canonical facades (`retain`, `recall`, `reflect`) slashing 80% schema tokens, async harvester daemon, multi-account LRU query cache (<1ms), and REST HTTP service (`:8085`) for gateway pre-injection.
+- **Epistemic Hygiene & Privacy Gateway**: Automated semantic anti-slop scrubbing, zero-secrets sanitization, and strict multi-bank partition isolation.
 
 **[MemoriaGraph Lite](https://github.com/lhermawan/memoriagraph-lite)**  
 *Autonomous Cognitive Memory & Decision Hub for AI Coding Agents (Indexed in [XERJ Corpus Hub](https://hub.xerj.org/contributors/lhermawan)).*
-- **Reference Memory Corpus**: Selected and indexed by [XERJ Corpus Hub](https://hub.xerj.org/contributors/lhermawan) as an official reference memory for AI coding agents worldwide.
-- **Cognitive Triad**: Solves AI agent amnesia by mapping `Problem -> Mitigation Heuristic -> Verified Solution`.
-- **Interactive Cockpit**: 2D physics visualizer & sliding drawer inspection with dual MCP server tools.
+- **XERJ Corpus Hub Selection**: Curated and indexed into [XERJ Corpus Hub](https://hub.xerj.org/contributors/lhermawan) as an official ground-truth reference memory for AI coding agents worldwide.
+- **Cognitive Triad**: Solves AI agent session amnesia by crystallizing technical roadblocks into `Problem -> Mitigation Heuristic -> Verified Solution`.
+- **Zero-Dependency Cockpit**: Embedded SQLite engine paired with an interactive 2D physics visualizer and dual-tool MCP server.
+
+**[FRIDAY-PROTOCOL v2.1](https://github.com/lhermawan/friday-protocol)**  
+*The Spec-Driven, DevSecOps-First, and Anti-Hallucination Governance Protocol for Autonomous AI Agents.*
+- **Governance & Threat Modeling**: 6D Lifecycle Matrix and STRIDE threat modeling aligning AI development with BSSN security standards and UU PDP compliance.
+- **Anti-Wipe Database Safeguards**: Hard safety tripwires and mandatory pre-migration snapshots eliminating accidental production data destruction.
+- **Universal Multi-Agent Support**: Turnkey npm package (`npx friday-protocol`) supporting Google Antigravity, Claude Code, Cursor, and Windsurf.
 
 ---
 
