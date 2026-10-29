@@ -54,7 +54,7 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 - **Cognitive Triad**: Solves AI agent session amnesia by crystallizing technical roadblocks into `Problem -> Mitigation Heuristic -> Verified Solution`.
 - **Zero-Dependency Cockpit**: Embedded SQLite engine paired with an interactive 2D physics visualizer and dual-tool MCP server.
 
-**<a href="https://www.agensi.io/skills/friday-protocol" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:9999px;background:#1f6feb;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;font-size:14px;text-decoration:none;line-height:1;border:1px solid #1a5fcc"><span style="font-weight:600">Friday Protocol</span><span style="opacity:.85">on Agensi</span></a>**  
+**<a href="https://www.agensi.io/skills/friday-protocol" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:8px;padding:8px 14px;border-radius:9999px;background:#1f6feb;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;font-size:14px;text-decoration:none;line-height:1;border:1px solid #1a5fcc"><span style="font-weight:600">Friday Protocol </span><span style="opacity:.85">on Agensi</span></a>**  
 *The Spec-Driven, DevSecOps-First, and Anti-Hallucination Governance Protocol for Autonomous AI Agents.*
 - **Governance & Threat Modeling**: 6D Lifecycle Matrix and STRIDE threat modeling aligning AI development with BSSN security standards and UU PDP compliance.
 - **Anti-Wipe Database Safeguards**: Hard safety tripwires and mandatory pre-migration snapshots eliminating accidental production data destruction.
