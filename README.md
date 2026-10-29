@@ -42,7 +42,7 @@ I am a hybrid professional bridging the gap between **Software Engineering** and
 
 ### 🌟 Featured Projects
 
-**[MemoriaGraph 3.1](https://github.com/lhermawan/memoriagraph)**  
+**[MemoriaGraph 3.2](https://github.com/lhermawan/memoriagraph)**  
 *Biomimetic Cognitive Substrate & Long-Term Memory Engine for Autonomous AI Agents & Systems.*
 - **4-Way Hybrid Retrieval (RRF)**: Unifies BM25 Lexical search, Neo4j Graph Traversal, Temporal Ebbinghaus Decay, and Quantized Int8 Dense Vector Embeddings (<30ms).
 - **5 Pillars of Zero-Overhead**: Canonical facades (`retain`, `recall`, `reflect`) slashing 80% schema tokens, async harvester daemon, multi-account LRU query cache (<1ms), and REST HTTP service (`:8085`) for gateway pre-injection.
